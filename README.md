@@ -1,1 +1,3 @@
-# responsive-tic-tac-toe-18318
+# Project Repository
+
+This is the initial README file for the project.
